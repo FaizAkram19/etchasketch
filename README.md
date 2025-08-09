@@ -1,0 +1,1 @@
+In this project Ive been taske to create a simple Etch-a-Sketch. Where the color of the squares change when we hover over them.

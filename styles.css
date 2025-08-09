@@ -1,0 +1,14 @@
+.container{
+    width :660px;
+    height:660px;
+    display:flex;
+    flex-wrap:wrap;
+    margin: auto;
+    
+
+}
+.squarebox{
+    box-sizing: border-box;
+    border: 1px solid grey;
+    aspect-ratio: 1/1;
+}
