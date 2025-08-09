@@ -12,3 +12,26 @@
     border: 1px solid grey;
     aspect-ratio: 1/1;
 }
+.hey{
+    display:flex;
+    justify-content:center;
+}
+.options{
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+}
+button{
+    height: 25px;
+    width: auto;
+    background-color: aquamarine;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+a{
+    text-decoration: none;
+    color:tomato;
+}
